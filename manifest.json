@@ -1,0 +1,22 @@
+{
+    "muscriptor":  {
+                       "medium":  {
+                                      "size":  1228144472,
+                                      "sha256":  "ac80adbdf85d87231735fd948af7013441c0afced316c4e9067fd5d8a7fb97ec",
+                                      "model":  "model.safetensors",
+                                      "parts":  17
+                                  },
+                       "small":  {
+                                     "size":  411888600,
+                                     "sha256":  "bbd482c786b895cf7d8f44185073d951adae2ebb8a66f82ca84cd1f84569549c",
+                                     "model":  "model.safetensors",
+                                     "parts":  6
+                                 },
+                       "large":  {
+                                     "size":  5465642136,
+                                     "sha256":  "ac4eb6ea87dfc26b6ca6b954c6b967ab87ad4c7d08e078b25214f13ed051f397",
+                                     "model":  "model.safetensors",
+                                     "parts":  75
+                                 }
+                   }
+}
